@@ -48,8 +48,7 @@ pip install speechrecognition pyttsx3 requests
 music = {
     "bella ciao": "https://www.youtube.com/watch?v=0aUav1lx3rA",
     "mocking bird": "https://www.youtube.com/watch?v=S9bCLPwzSC0",
-    "skyfall": "https://www.youtube.com/watch?v=DeumyOzKqgI",
-    "sahiba": "https://www.youtube.com/watch?v=n2dVFdqMYGA"
+    "skyfall": "https://www.youtube.com/watch?v=DeumyOzKqgI"
 }
 ```
 
