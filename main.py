@@ -17,10 +17,10 @@ def speak(text):
     engine.runAndWait()  # Do this only once
 newsapi = "ec7b4e3c5bc74dd7aa3c53ce7f77d870"
 
-# 📧 Send Email Function
+
 def send_email(to_email, subject, body):
     sender_email = "siddhant.kumar9090@gmail.com"
-    sender_password = "kmmqbajrivhtmafo"  # Create from your Gmail account with 2-step
+    sender_password = "kmmqbajrivhtmafo"  
 
     msg = EmailMessage()
     msg.set_content(body)
